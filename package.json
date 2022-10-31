@@ -1,0 +1,18 @@
+{
+  "name": "discordsendall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tacxtv/discordsendall.git",
+  "author": "Tacx <12997062+tacxticx88@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev src/server.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  }
+}
